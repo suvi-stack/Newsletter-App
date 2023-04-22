@@ -1,1 +1,1 @@
-# Mail app
+# Newsletter app
